@@ -1,3 +1,6 @@
+# igonre all .* files except .gitignore
+.*
+!.gitignore
 *.tex
 *.vim
 
