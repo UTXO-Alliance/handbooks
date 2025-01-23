@@ -11,7 +11,7 @@
 2. Explain the key aspects of the UTXO model and the functioning of a blockchain using simple visual flowcharts. 
 3. Expose the rich variety of the different designs implemented by various blockchains that are part of the UTXO Alliance.
 
-<img src="https://github.com/UTXO-Alliance/handbooks/blob/main/utxo-model-flavors-handbook/excalidraw/high-level-blockchain.png" style="width:60%; height:60%;">
+<img src="https://github.com/UTXO-Alliance/handbooks/blob/main/utxo-model-flavors-handbook/readme-assets/high-level-blockchain.png" style="width:60%; height:60%;">
 
 ## Overview
 It's been a decade since Bitcoin with its underlying computing model, the Unspent Transaction Output (UTXO) model, brought the most prominent application of blockchain technology to life - decentralized financial systems.
@@ -20,7 +20,7 @@ This seminal pioneer breakthrough inspired subsequent revolutions reimagining de
 
 While Bitcoin laid the groundwork with its UTXO model (think vanilla ice cream 🍦), the UTXO Alliance members have been cooking up some seriously cool flavors! From Cardano's eUTXO bringing smart contracts to the table, to Ergo's powerful scripting capabilities, to Alephium's sharding solution - each chain adds its own special ingredients to the mix. It's like having a whole ice cream parlor of blockchain designs to choose from! 🍨
 
-<img src="https://github.com/UTXO-Alliance/handbooks/blob/main/utxo-model-flavors-handbook/excalidraw/simple-blockchain.png" style="width:70%; height:70%;">
+<img src="https://github.com/UTXO-Alliance/handbooks/blob/main/utxo-model-flavors-handbook/readme-assets/simple-blockchain.png" style="width:70%; height:70%;">
 
 This is where our handbook comes in - think of it as your friendly neighborhood guide to the UTXO universe. Through colorful diagrams and clear explanations, we'll take you on a journey from Bitcoin's vanilla UTXO to the exotic flavors offered by modern UTXO-based chains. Whether you're a developer looking to build the next big dApp, an entrepreneur exploring blockchain solutions, or just someone curious about how these systems work, we've got you covered!
 
