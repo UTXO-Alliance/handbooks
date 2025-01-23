@@ -4,8 +4,8 @@
 *.tex
 *.vim
 *.png
-!utxo-model-flavors-handbook/excalidraw/high-level-blockchain.png
-!utxo-model-flavors-handbook/excalidraw/simple-blockchain.png
+!utxo-model-flavors-handbook/readme-assets/high-level-blockchain.png
+!utxo-model-flavors-handbook/readme-assets/simple-blockchain.png
 *.svg
 
 # Ignore large excalidraw storyboards for now
