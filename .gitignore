@@ -6,6 +6,10 @@
 *.png
 *.svg
 
+# Ignore large excalidraw storyboards for now
+utxo-model-flavors-handbook/excalidraw/storyboard-utxo-model.excalidraw
+utxo-model-flavors-handbook/excalidraw/utxo-model.excalidraw
+
 # Ignore LaTeX docs
 latex/
 test-v2/
