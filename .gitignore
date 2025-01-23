@@ -3,6 +3,9 @@
 !.gitignore
 *.tex
 *.vim
+*.png
+*.svg
 
 # Ignore LaTeX docs
 latex/
+test-v2/
