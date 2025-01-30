@@ -4,13 +4,17 @@
 *.tex
 *.vim
 *.png
+*.svg
+
 !utxo-model-flavors-handbook/readme-assets/README-high-level-blockchain.png
 !utxo-model-flavors-handbook/readme-assets/README-simple-blockchain.png
-*.svg
 
 # Ignore large excalidraw storyboards for now
 utxo-model-flavors-handbook/excalidraw/storyboard-utxo-model.excalidraw
 utxo-model-flavors-handbook/excalidraw/utxo-model.excalidraw
+
+# Ignore markdown notes
+utxo-model-flavors-handbook/excalidraw/chapter*.md
 
 # Ignore LaTeX docs
 latex/
