@@ -12,6 +12,7 @@
 # Ignore large excalidraw storyboards for now
 utxo-model-flavors-handbook/excalidraw/storyboard-utxo-model.excalidraw
 utxo-model-flavors-handbook/excalidraw/utxo-model.excalidraw
+utxo-model-flavors-handbook/excalidraw/scene-*
 
 # Ignore markdown notes
 utxo-model-flavors-handbook/excalidraw/chapter*.md
